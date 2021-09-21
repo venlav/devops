@@ -1,6 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> MADHAVA USING ANSIBLE </h2>
-<h2> Glad to see you here </h2>
+<h2>SUPERSTAR MADHAVA USING ANSIBLE </h2>
 <h3> Hello maddy </h3>
 <h4> MADHAV SUPERSTAR</h4>
 <h5> East or West madhav is best </h5>
